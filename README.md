@@ -26,7 +26,7 @@ Create icons according to Apple Guideline and copy them in `Resources/icons`
 
 
 ###Changing Launch Image
-###Create Launch  according to Apple Guideline and copy them in Resources
+Create Launch  according to Apple Guideline and copy them in Resources
 The file name should be `Default.png`
 [Apple Guideline](http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/IconsImages/IconsImages.html)
 
