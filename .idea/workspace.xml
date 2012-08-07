@@ -19,10 +19,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app_delegate.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app_delegate.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/app_delegate.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="5" selection-start="304" selection-end="304" vertical-scroll-proportion="0.15075377">
+            <state line="6" column="5" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -46,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="26" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0">
+            <state line="34" column="82" selection-start="1096" selection-end="1096" vertical-scroll-proportion="0.85427135">
               <folding />
             </state>
           </provider>
@@ -59,7 +59,9 @@
         <entry file="file://$PROJECT_DIR$/app/settings.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="2" column="2" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1344322733000" expanded="true" signature="14:99" placeholder=" ... end" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,10 +78,10 @@
       <list>
         <option value="$PROJECT_DIR$/app/main_controller.rb" />
         <option value="$PROJECT_DIR$/app/app_delegate.rb" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Rakefile" />
         <option value="$PROJECT_DIR$/app/settings.rb" />
         <option value="$PROJECT_DIR$/app/root_controller.rb" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -380,7 +382,9 @@
     <entry file="file://$PROJECT_DIR$/app/settings.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="26" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1344322733000" expanded="true" signature="14:99" placeholder=" ... end" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -399,17 +403,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="26" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/settings.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="2" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1344322733000" expanded="true" signature="14:99" placeholder=" ... end" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -429,7 +428,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/app_delegate.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="5" selection-start="304" selection-end="304" vertical-scroll-proportion="0.15075377">
+        <state line="6" column="5" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="82" selection-start="1096" selection-end="1096" vertical-scroll-proportion="0.85427135">
           <folding />
         </state>
       </provider>

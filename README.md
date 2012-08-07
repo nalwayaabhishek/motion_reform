@@ -3,7 +3,8 @@ Motion Reform
 
 Using `Motion Reform` application you can easily convert your Web Application to Native Application using Rubymotion.
 
-In Just two Step you can convert you application to Native Application :
+In Just three Step you can convert you HTML5 application to Native Application :
+
 Step 1.) Open app\Settings.rb and change
 
         URL ="<Your Web Application URL>"
@@ -31,6 +32,9 @@ The file name should be `Default.png`
 
 
 ###Build setting
- To update build setting edit rake file
+ To update build setting like  Application name, certification etc edit rake file.
+  To see default setting run:
+
+    rake config
 
 
